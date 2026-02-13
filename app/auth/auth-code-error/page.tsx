@@ -15,7 +15,7 @@ export default function AuthCodeError() {
                     </div>
                     <CardTitle className="text-2xl font-bold text-destructive">Authentication Error</CardTitle>
                     <CardDescription className="text-base text-muted-foreground">
-                        We couldn't verify your session. This might happen if the link has expired or was already used.
+                        We couldn&apos;t verify your session. This might happen if the link has expired or was already used.
                     </CardDescription>
                 </CardHeader>
                 <CardContent className="flex flex-col gap-4">
